@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31037" started-at="2018-02-03T06:39:27Z" finished-at="2018-02-03T06:39:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31037" started-at="2018-02-03T06:39:27Z" finished-at="2018-02-03T06:39:58Z">
+      <class name="com.ryanair.tests.FlightTests">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.ryanair.tests.FlightTests@ae45eb6]" name="beforeTest" is-config="true" duration-ms="14207" started-at="2018-02-03T12:09:27Z" finished-at="2018-02-03T12:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testFindFlights()[pri:0, instance:com.ryanair.tests.FlightTests@ae45eb6]" name="testFindFlights" duration-ms="15364" started-at="2018-02-03T12:09:42Z" finished-at="2018-02-03T12:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindFlights -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.ryanair.tests.FlightTests@ae45eb6]" name="afterTest" is-config="true" duration-ms="1438" started-at="2018-02-03T12:09:57Z" finished-at="2018-02-03T12:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.ryanair.tests.FlightTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
